@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "KPI System",
+    "description": "This project involves developing a centralized web-based KPI system for Rolling Cargo Shipping Company. The goal is to help the company track, analyze, and visualize performance metrics across departments such as marketing, sales, and transportation.",
+    "techStack": ["React", "TailwindCSS", "Node", "Express", "PostgreSQL"],
+    "image": "kpi.png",
+    "liveUrl": "#",
+    "githubUrl": "#",
+    "figmaUrl": "#",
+    "reverse": false
+  },
+  {
+    "id": 2,
+    "title": "Bento Grid",
+    "description": "A responsive, modern bento-style grid layout built using HTML and CSS. This project focuses on mastering layout composition, grid positioning, spacing, and visual hierarchy using pure CSS. The design adapts seamlessly across devices and demonstrates strong front-end structure and styling skills.",
+    "techStack": ["HTML", "css3", "Grid","Responsive Design"],
+    "image": "bento-grid.png",
+    "liveUrl": "#",
+    "githubUrl": "#",
+    "figmaUrl": "#",
+    "reverse": true
+  }
+]
