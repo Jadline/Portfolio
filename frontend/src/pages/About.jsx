@@ -115,7 +115,7 @@ export default function AboutPage() {
               <h3 className="text-2xl font-semibold text-purple-400 mb-4">
                 Education
               </h3>
-              <p>BSc Industrial Mathematics — Graduated with Second Class Upper Division Award</p>
+              <p>BSc Industrial Mathematics from Jomo Kenyatta University of Agriculture and Technology (JKUAT)  — Graduated with Second Class Upper Division Award</p>
             </motion.div>
 
            
