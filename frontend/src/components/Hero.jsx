@@ -21,6 +21,7 @@ export default function Hero() {
           <img 
             src="photo-01-grad.jpg" 
             alt="Hero" 
+            loading="eager"  
             className="w-40 sm:w-60 lg:w-[20rem] h-auto object-cover rounded-full"
           />
         </div>
